@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Cambria';
+    font-display: block;
+    src: url("../../../src/fonts/Cambria.eot");
+    src: local("Cambria"), local("Cambria"),
+    url("../../../src/fonts/Cambria.woff") format("woff"),
+    url("../../../src/fonts/Cambria.eot") format("opentype"),
+    url("../../../src/fonts/Cambria.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal; }
+
+@font-face {
+    font-family: 'Cambria Bold';
+    font-display: block;
+    src: url("../fonts/Cambria-Bold.eot");
+    src: local("Cambria"), local("Cambria"),
+    url("../fonts/Cambria-Bold.woff") format("woff"),
+    url("../fonts/Cambria-Bold.eot") format("opentype"),
+    url("../fonts/Cambria-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal; }
+
+@font-face {
+    font-family: 'Cambria Italic';
+    font-display: block;
+    src: url("../fonts/Cambria-Italic.eot");
+    src: local("Cambria"), local("Cambria"),
+    url("../fonts/Cambria-Italic.woff") format("woff"),
+    url("../fonts/Cambria-Italic.eot") format("opentype"),
+    url("../fonts/Cambria-Italic.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal; }
+
+@font-face {
+    font-family: 'Cambria BoldItalic';
+    font-display: block;
+    src: url("../fonts/Cambria-BoldItalic.eot");
+    src: local("Cambria"), local("Cambria"),
+    url("../fonts/Cambria-BoldItalic.woff") format("woff"),
+    url("../fonts/Cambria-BoldItalic.eot") format("opentype"),
+    url("../fonts/Cambria-BoldItalic.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal; }
