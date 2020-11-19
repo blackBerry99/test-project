@@ -48,6 +48,7 @@
     .main__code-text {
       width: 120px; }
     .main__code-btn {
+<<<<<<< HEAD
       width: 140px; }
     .main__code-input {
       font-size: 16px; }
@@ -58,3 +59,19 @@
     align-items: center; } }
 
 /*# sourceMappingURL=media.css.map */
+=======
+        width: 140px;
+    }
+    .main__code-input{
+        font-size: 16px;
+        width:120px;
+    }
+    .main__footer-logo img{
+        width: 100px;
+    }
+    .main__footer-container{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+>>>>>>> e39b3e00d15d11b8f3cc94313b3921768293eb3f
